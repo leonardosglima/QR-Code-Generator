@@ -1,1 +1,1 @@
-Insirir o link na variável "link" para gerar o QR Code.
+Inserir o link na variável "link" para gerar o QR Code.
